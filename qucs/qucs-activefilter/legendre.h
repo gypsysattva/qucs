@@ -1,7 +1,7 @@
 #ifndef LEGENDRE
 #define LEGENDRE
 //Legendre coeffs table
-
+//Generated automatically! DO NOT EDIT!!!
 
 double LegendrePoles[20][40]={
 
